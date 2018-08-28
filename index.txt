@@ -1,2 +1,3 @@
 this is another commit 
-this is anotehr feature
+
+this is a new feature 
