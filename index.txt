@@ -2,7 +2,10 @@ this is another commit
 
 this is a new feature 
 
+
 A.this is a new title.
 A.this is my feature. 
 
 A.this is the end.
+
+this is another new feature.
